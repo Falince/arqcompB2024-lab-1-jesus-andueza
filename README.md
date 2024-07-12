@@ -34,6 +34,6 @@
   - **Tecnologías Utilizadas**: C#
 
 ## Intereses
-- **Interés 1**
-- **Interés 2**
-- **Interés 3**
+- Barismo
+- Producción Musical
+- Programación
